@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICDUse", "CICDUse.csproj", "{C950CA25-6151-4D1C-9300-A65268F48443}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CICDUse", "CICDUse.csproj", "{C950CA25-6151-4D1C-9300-A65268F48443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignarlR", "..\SignarlR\SignarlR.csproj", "{13FC5C26-59DD-4603-91DD-5BA4EDD4451E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C950CA25-6151-4D1C-9300-A65268F48443}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C950CA25-6151-4D1C-9300-A65268F48443}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C950CA25-6151-4D1C-9300-A65268F48443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13FC5C26-59DD-4603-91DD-5BA4EDD4451E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FC5C26-59DD-4603-91DD-5BA4EDD4451E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FC5C26-59DD-4603-91DD-5BA4EDD4451E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FC5C26-59DD-4603-91DD-5BA4EDD4451E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
